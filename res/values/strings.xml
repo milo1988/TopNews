@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">今日头条</string>
+    <string name="app_name">仿今日头条</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="left_drawer_no_login_tip">登录后，将推荐给你更多感兴趣的文章</string>

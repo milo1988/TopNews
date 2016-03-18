@@ -58,7 +58,7 @@ public class NewsItemDao
 //			int offset = 10 * (currentPage - 1);
 			String sql = "select title,sourceUrl,largePic,content,newstype,publicTime,sourceFrom,commentCount,picList from newsItem where newstype = ? limit ?,? ";
 			SQLiteDatabase db = dbHelper.getReadableDatabase();
-			Cursor c = db.rawQuery(sql, new String[] { newsType + "", 20 + "", "" + 0 });
+			Cursor c = db.rawQuery(sql, new String[] { newsType + "", 0 + "", "" + 20 });
 
 			NewsItem newsItem = null;
 
