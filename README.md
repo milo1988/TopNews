@@ -1,8 +1,6 @@
 # TopNews
 今日头条高仿版本
-数据来源：今日头条网站
-
-orgined by [Rano1](https://github.com/Rano1)
+数据来源：今日头条网站 http://toutiao.com/
 
 
 ![image](https://github.com/milo1988/TopNews/blob/master/screenshot/demo1.png)
