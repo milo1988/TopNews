@@ -1,5 +1,5 @@
 # TopNews
-今日头条高仿版本
+高仿今日头条
 数据来源：今日头条网站 http://toutiao.com/
 
 
